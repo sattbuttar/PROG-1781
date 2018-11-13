@@ -1,0 +1,7 @@
+E:\c#\assin\completed\A2SatwinderSinghP1\A2SatwinderSinghP1\bin\Debug\A2SatwinderSinghP1.exe.config
+E:\c#\assin\completed\A2SatwinderSinghP1\A2SatwinderSinghP1\bin\Debug\A2SatwinderSinghP1.exe
+E:\c#\assin\completed\A2SatwinderSinghP1\A2SatwinderSinghP1\bin\Debug\A2SatwinderSinghP1.pdb
+E:\c#\assin\completed\A2SatwinderSinghP1\A2SatwinderSinghP1\obj\Debug\A2SatwinderSinghP1.csprojAssemblyReference.cache
+E:\c#\assin\completed\A2SatwinderSinghP1\A2SatwinderSinghP1\obj\Debug\A2SatwinderSinghP1.csproj.CoreCompileInputs.cache
+E:\c#\assin\completed\A2SatwinderSinghP1\A2SatwinderSinghP1\obj\Debug\A2SatwinderSinghP1.exe
+E:\c#\assin\completed\A2SatwinderSinghP1\A2SatwinderSinghP1\obj\Debug\A2SatwinderSinghP1.pdb
